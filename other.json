@@ -1,0 +1,7 @@
+{
+  "other": [
+    { "id": 1, "title": "html" },
+    { "id": 2, "title": "css" },
+    { "id": 3, "title": "Javascrip" }
+   ]
+}

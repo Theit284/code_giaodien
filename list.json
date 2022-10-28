@@ -1,0 +1,48 @@
+{
+  "use": [
+    {
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "data1": [
+    {
+      "id": 3,
+      "title": "Javascrip"
+    },
+    {
+      "id": 4,
+      "title": "React"
+    },
+    {
+      "title": "hcv",
+      "id": 6
+    },
+    {
+      "title": "js",
+      "id": 7
+    },
+    {
+      "title": "r",
+      "id": 8
+    },
+    {
+      "title": "3",
+      "id": 9
+    }
+  ],
+  "data2": [
+    {
+      "id": 1,
+      "title": "html"
+    },
+    {
+      "id": 2,
+      "title": "css"
+    },
+    {
+      "title": "react",
+      "id": 5
+    }
+  ]
+}
